@@ -6,6 +6,7 @@ Dining Philosopers
 
 I have written this program to solve this problem by Arbitrator solution algorithm, mentioned here, to solve this (https://en.wikipedia.org/wiki/Dining_philosophers_problem). 
 
+[
 Problem :
 Five silent philosophers sit at a round table with bowls of spaghetti. Forks are placed between each pair of adjacent philosophers.
 
@@ -23,3 +24,4 @@ when both forks are held, eat for a fixed amount of time;
 then, put the right fork down;
 then, put the left fork down;
 repeat from the beginning.
+]
